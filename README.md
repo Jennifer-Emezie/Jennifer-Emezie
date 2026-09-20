@@ -1,15 +1,4 @@
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&layout=donut&theme=tokyonight)
-
-### 💻 Most Used Languages
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&layout=compact&theme=tokyonight)
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Jennifer-Emezie&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&layout=compact&theme=default)
 
 <!--
 **Jennifer-Emezie/Jennifer-Emezie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
