@@ -1,18 +1,5 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&size_weight=0.5&count_weight=0.5)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=Jennifer-Emezie" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=Jennifer-Emezie&layout=compact&langs_count=8&card_width=320" />
-</a>
-
-
-
-## 🛠️ Technologies & Tools
-
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&layout=compact&langs_count=10)
 <!--
 **Jennifer-Emezie/Jennifer-Emezie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
