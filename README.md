@@ -10,7 +10,9 @@
 
 
 
+## 🛠️ Technologies & Tools
 
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jennifer-Emezie&layout=compact&langs_count=10)
 <!--
 **Jennifer-Emezie/Jennifer-Emezie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
